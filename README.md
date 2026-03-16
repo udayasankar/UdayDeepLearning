@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-
 
 https://www.youtube.com/watch?v=g-Hb26agBFg
 
+https://www.youtube.com/playlist?list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9
+
 PHD Deep learning materials
 
 machine learning: https://www.ibm.com/think/topics/backpropagation#741977107

@@ -17,9 +17,9 @@ PHD Deep learning materials
 
 machine learning: https://www.ibm.com/think/topics/backpropagation#741977107
 
-Deep Learning An MIT Press book : https://www.deeplearningbook.org/Deep Learning
+Deep Learning An MIT Press book : https://www.deeplearningbook.org/
 
-https://udlbook.github.io/udlbook/
+Deep Learning: https://udlbook.github.io/udlbook/
 
 Mathematical Engineering of Deep Learning : https://deeplearningmath.org/drafts/chap2.pdf#page=0.64
 

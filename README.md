@@ -3,6 +3,8 @@ Deep Learning Materials
 
 🚀 Deep Learning PHD Deep learning materials 
 
+Deep learning : https://lilianweng.github.io/posts/2017-06-21-overview/
+
 https://www.youtube.com/watch?v=alfdI7S6wCY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 
 https://www.youtube.com/watch?v=SdTZAMDKrNY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=11
